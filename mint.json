@@ -28,9 +28,9 @@
     {
       "group": "Services",
       "pages": [
-        "design",
-        "develop",
-        "launch"
+        "services/design",
+        "services/develop",
+        "services/launch"
       ]
     },
     {
