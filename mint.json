@@ -24,12 +24,12 @@
     "name": "Contact",
     "url": "mailto:ojchapman@gmail.com"
   },
-  "tabs": 
+  "tabs": [
     {
       "name": "Ventures",
       "url": "venture-studio"
     }
-  ,
+  ],
   "anchors": [
     {
       "name": "Documentation",
