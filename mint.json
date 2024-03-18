@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
   "name": "Centauri Studio",
   "logo": {
     "dark": "/logo/dark.svg",
