@@ -50,12 +50,8 @@
     {
       "group": "Ventures",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "venures/introduction",
+        "essentials/code"
       ]
     }
   ],
