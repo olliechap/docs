@@ -24,13 +24,6 @@
     "name": "Contact",
     "url": "mailto:ojchapman@gmail.com"
   },
-  "anchors": [
-    {
-      "name": "Quick Links",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
   "navigation": [
     {
       "group": "Services",
@@ -39,12 +32,13 @@
         "develop",
         "launch"
       ]
-    }
-  ],
-  "tabs": [
+    },
     {
-      "name": "Ventures",
-      "url": "/ventures"
+      "group": "Ventures",
+      "pages": [
+        "ventures/arium",
+        "ventures/smartpipe"
+      ]
     }
   ],
   "footerSocials": {
