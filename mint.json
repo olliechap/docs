@@ -28,15 +28,8 @@
     {
       "group": "Centauri Studio",
       "pages": [
-        "home"
-      ]
-    },
-    {
-      "group": "Services",
-      "pages": [
-        "services/design",
-        "services/develop",
-        "services/launch"
+        "home",
+        "services"
       ]
     },
     {
