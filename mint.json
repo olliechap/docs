@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Centauri Studio",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#2F316D",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#7377A7",
+    "light": "#9599C2",
+    "dark": "#333333",
     "anchors": {
-      "from": "#2F316D",
-      "to": "#07C983"
+      "from": "#7377A7",
+      "to": "#9599C2"
     }
   },
   "topbarLinks": [
