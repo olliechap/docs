@@ -46,13 +46,6 @@
         "develop",
         "launch"
       ]
-    },
-    {
-      "group": "Ventures",
-      "pages": [
-        "ventures/introduction",
-        "essentials/code"
-      ]
     }
   ],
   "footerSocials": {
