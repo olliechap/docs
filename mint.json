@@ -24,12 +24,6 @@
     "name": "Contact",
     "url": "mailto:ojchapman@gmail.com"
   },
-  "tabs": [
-    {
-      "name": "Ventures",
-      "url": "/ventures"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
