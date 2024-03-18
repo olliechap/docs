@@ -7,28 +7,28 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#7377A7",
-    "light": "#9599C2",
-    "dark": "#333333",
+    "primary": "#2F316D",
+    "light": "#07C983",
+    "dark": "#0D9373",
     "anchors": {
-      "from": "#7377A7",
-      "to": "#9599C2"
+      "from": "#2F316D",
+      "to": "#07C983"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Twitter",
+      "url": "https://x.com/olliechapman"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Contact",
+    "url": "mailto:ojchapman@gmail.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Ventures",
+      "url": "ventures"
     }
   ],
   "anchors": [
@@ -84,8 +84,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/"
   }
 }
